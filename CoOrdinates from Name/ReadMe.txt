@@ -18,7 +18,8 @@ Setting up Google Earth Engine in Anaconda For the first time
 Getting Started
 1. Goto website https://export.hotosm.org/en/v3/exports/new/describe
 2. Specify the feature of interest from specific region.
-3. Select .shp file as the required extension to export.
+3. Select .shp file as the required extension to export. 
+Provide the .geojson file for clipping the region of interest (It can be extracted from https://github.com/mesaugat/geoJSON-Nepal and splitting the required boundary by opening the text from notepad and saving the clipped region as geojson)
 4. Extract the downloaded file.
 5. Open https://code.earthengine.google.com
 6. Log In or Create Id if required.
