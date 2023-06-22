@@ -16,7 +16,7 @@ Setting up Google Earth Engine in Anaconda For the first time
 13. jupyter notebook                           #Opens the jupypter notebook
 
 Getting Started
-1. Goto website export.hotosm.org
+1. Goto website https://export.hotosm.org/en/v3/exports/new/describe
 2. Specify the feature of interest from specific region.
 3. Select .shp file as the required extension to export.
 4. Extract the downloaded file.
